@@ -1,0 +1,171 @@
+<<<<<<< HEAD
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498722720636">
+  <folder name="css">
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="4246510599" ref="index"/>
+=======
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498687903063">
+  <folder name="css">
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="4177634426" ref="index"/>
+>>>>>>> 1ecbe86411a82b280e1a45900fb225ab45a0acda
+  </folder>
+  <folder name="assets">
+    <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
+    <file name="путешеств 2.jpg" crc="3856688049" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="путешеств 2_2x.jpg" crc="489626214" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u30887-6.png" crc="58981619" ref="phone>index"/>
+    <file name="u30887-6_2x.png" crc="287401706" ref="phone>index"/>
+<<<<<<< HEAD
+    <file name="u30867-8.png" crc="4020194260" ref="phone>index"/>
+    <file name="u30867-8_2x.png" crc="334781893" ref="phone>index"/>
+=======
+    <file name="u30867-8.png" crc="3941329231" ref="phone>index"/>
+    <file name="u30867-8_2x.png" crc="318323886" ref="phone>index"/>
+>>>>>>> 1ecbe86411a82b280e1a45900fb225ab45a0acda
+    <file name="city-lights-night-rooftop-medium.jpg" crc="536394151" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мадрид 1.jpg" crc="174281174" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мадрид 1_2x.jpg" crc="149907024" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="people-eiffel-tower-france-landmark-medium.jpg" crc="303313089" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
+    <file name="лето 6.jpg" crc="80662254" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лето 6_2x.jpg" crc="310042506" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="самолёт 676x76.png" crc="4216966362" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="самолёт 676x76_2x.png" crc="3806891087" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u30826-4.png" crc="188199872" ref="phone>index"/>
+    <file name="u30826-4_2x.png" crc="419427104" ref="phone>index"/>
+    <file name="письмо 594x59.png" crc="263371017" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 594x59_2x.png" crc="86198141" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="самолёт 5.png" crc="93996191" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="самолёт 5_2x.png" crc="3826426721" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="путешеств 2305x280.jpg" crc="4292072633" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="путешеств 2305x280_2x.jpg" crc="4267142544" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u30887-62.png" crc="356742753" ref="phone>index"/>
+    <file name="u30887-6_2x2.png" crc="335749544" ref="phone>index"/>
+<<<<<<< HEAD
+    <file name="u30867-82.png" crc="3902887557" ref="phone>index"/>
+    <file name="u30867-8_2x2.png" crc="4017808245" ref="phone>index"/>
+=======
+    <file name="u30867-82.png" crc="328832864" ref="phone>index"/>
+    <file name="u30867-8_2x2.png" crc="4064830732" ref="phone>index"/>
+>>>>>>> 1ecbe86411a82b280e1a45900fb225ab45a0acda
+    <file name="u30826-42.png" crc="207484431" ref="phone>index"/>
+    <file name="u30826-4_2x2.png" crc="4209115574" ref="phone>index"/>
+    <file name="u31916-4.png" crc="4068734719" ref="index"/>
+    <file name="u31916-4_2x.png" crc="50050417" ref="index"/>
+    <file name="u31956-6.png" crc="525928143" ref="index"/>
+    <file name="u31956-6_2x.png" crc="4128503908" ref="index"/>
+    <file name="самолёт 6.png" crc="428545618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="путешествие 2.jpg" crc="4208403054" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u31977-6.png" crc="327959954" ref="index"/>
+    <file name="u31977-6_2x.png" crc="4070069044" ref="index"/>
+    <file name="текст-для-bigsite-в-панеле-меню-3.png" crc="407435814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="текст-для-bigsite-в-панеле-меню-3_2x.png" crc="4215441504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="текст-для-bigsite-в-панеле-меню--1.png" crc="3902655099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="текст-для-bigsite-в-панеле-меню--1_2x.png" crc="464540623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="текст-для-bigsite-в-панеле-меню-2.png" crc="3784531991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="текст-для-bigsite-в-панеле-меню-2_2x.png" crc="3784531991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 5.png" crc="3799714809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 5_2x.png" crc="4132056379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="3950595014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+<<<<<<< HEAD
+      <file name="index.css" crc="4280666084" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4282247341" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="274662603" seo="true" mt="1498733272337" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4099266818" seo="true" mt="1498733156360" redirect="true"/>
+=======
+      <file name="index.css" crc="3791204661" ref="phone>index"/>
+      <file name="nomq_index.css" crc="486144939" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4020573533" seo="true" mt="1498687882813" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="526882657" seo="true" redirect="true"/>
+>>>>>>> 1ecbe86411a82b280e1a45900fb225ab45a0acda
+</manifest>
