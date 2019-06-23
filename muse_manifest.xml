@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561320423096">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561320860398">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4086906805" ref="index"/>
@@ -65,6 +65,14 @@
     <file name="u30828_2x.png" crc="436321833" ref="phone>index"/>
     <file name="u30828-r.png" crc="303082729" ref="phone>index"/>
     <file name="u30828-r_2x.png" crc="4125802293" ref="phone>index"/>
+    <file name="конверт 3.png" crc="3770634266" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="конверт 3_2x.png" crc="3846248458" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="bg2-u30819-fr.jpg" crc="388685311" ref="phone>index"/>
     <file name="u30887-62.png" crc="4134613576" ref="phone>index"/>
     <file name="u30887-6_2x2.png" crc="516932530" ref="phone>index"/>
@@ -92,10 +100,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="160622043" ref="phone>index"/>
-      <file name="nomq_index.css" crc="335497753" ref="phone>index"/>
+      <file name="index.css" crc="232196032" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824669564" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3877185493" seo="true" mt="1561320392825" redirect="true"/>
+    <file name="index.html" crc="3763529519" seo="true" mt="1561320835870" redirect="true"/>
   </folder>
   <file name="index.html" crc="4133403666" seo="true" mt="1561319228803" redirect="true"/>
 </manifest>
