@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561319009150">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561320971220">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="40817425" ref="index"/>
+    <file name="index.css" crc="4076265144" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -133,7 +133,7 @@
       <file name="index.css" crc="235516166" ref="phone>index"/>
       <file name="nomq_index.css" crc="288034114" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="428340295" seo="true" mt="1561320401453" redirect="true"/>
+    <file name="index.html" crc="4054034616" seo="true" mt="1561320401453" redirect="true"/>
   </folder>
-  <file name="index.html" crc="358548930" seo="true" mt="1561318677452" redirect="true"/>
+  <file name="index.html" crc="380134385" seo="true" mt="1561320927445" redirect="true"/>
 </manifest>
