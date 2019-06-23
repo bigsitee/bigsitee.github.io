@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561317911287">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561318876579">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4195515208" ref="index"/>
+    <file name="index.css" crc="4086906805" ref="index"/>
     <file name="iefonts_index.css" crc="496814878" ref="index"/>
   </folder>
   <folder name="assets">
@@ -50,8 +50,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="самолёт 5.png" crc="93996191" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="самолёт 5_2x.png" crc="3826426721" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u30826-4.png" crc="3847360113" ref="phone>index"/>
     <file name="u30826-4_2x.png" crc="299485893" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
+    <file name="u30828.png" crc="62579089" ref="phone>index"/>
+    <file name="u30828_2x.png" crc="323200258" ref="phone>index"/>
+    <file name="u30828-r.png" crc="3764397156" ref="phone>index"/>
+    <file name="u30828-r_2x.png" crc="3861522019" ref="phone>index"/>
     <file name="bg2-u30819-fr.jpg" crc="388685311" ref="phone>index"/>
     <file name="u30887-62.png" crc="4134613576" ref="phone>index"/>
     <file name="u30887-6_2x2.png" crc="516932530" ref="phone>index"/>
@@ -59,12 +72,18 @@
     <file name="u30867-6_2x2.png" crc="508778240" ref="phone>index"/>
     <file name="u30826-42.png" crc="213467754" ref="phone>index"/>
     <file name="u30826-4_2x2.png" crc="121645792" ref="phone>index"/>
+    <file name="u308282.png" crc="4253169039" ref="phone>index"/>
+    <file name="u30828_2x2.png" crc="4237003967" ref="phone>index"/>
+    <file name="u30828-r2.png" crc="4051373926" ref="phone>index"/>
+    <file name="u30828-r_2x2.png" crc="4136128655" ref="phone>index"/>
     <file name="bg2-u30819-fr2.jpg" crc="97302143" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="u31916-4.png" crc="4003094706" ref="index"/>
     <file name="u31916-4_2x.png" crc="3909866022" ref="index"/>
     <file name="u31956-6.png" crc="4045468645" ref="index"/>
     <file name="u31956-6_2x.png" crc="4271900719" ref="index"/>
+    <file name="самолёт 6.png" crc="428545618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u31977-6.png" crc="327959954" ref="index"/>
     <file name="u31977-6_2x.png" crc="4070069044" ref="index"/>
     <file name="bg2.jpg" crc="3950595014" ref="index">
@@ -73,10 +92,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3790495658" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3978864444" ref="phone>index"/>
+      <file name="index.css" crc="3943989501" ref="phone>index"/>
+      <file name="nomq_index.css" crc="159661944" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="228040511" seo="true" mt="1561317879138" redirect="true"/>
+    <file name="index.html" crc="50026642" seo="true" mt="1561318773814" redirect="true"/>
   </folder>
-  <file name="index.html" crc="515414648" seo="true" mt="1561317461550" redirect="true"/>
+  <file name="index.html" crc="3990055429" seo="true" mt="1561318852628" redirect="true"/>
 </manifest>
