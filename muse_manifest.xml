@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561321598468">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561322184161">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="8647491" ref="index"/>
+    <file name="index.css" crc="4031078075" ref="index"/>
     <file name="iefonts_index.css" crc="496814878" ref="index"/>
   </folder>
   <folder name="assets">
@@ -65,8 +65,8 @@
     <file name="u30828_2x.png" crc="436321833" ref="phone>index"/>
     <file name="u30828-r.png" crc="303082729" ref="phone>index"/>
     <file name="u30828-r_2x.png" crc="4125802293" ref="phone>index"/>
-    <file name="конверт 3-u37702.png" crc="121662458" ref="phone>index"/>
-    <file name="конверт 3-u37702_2x.png" crc="457246046" ref="phone>index"/>
+    <file name="конверт 3-u37702.png" crc="4142183681" ref="phone>index"/>
+    <file name="конверт 3-u37702_2x.png" crc="132790121" ref="phone>index"/>
     <file name="bg2-u30819-fr.jpg" crc="388685311" ref="phone>index"/>
     <file name="u30887-62.png" crc="4134613576" ref="phone>index"/>
     <file name="u30887-6_2x2.png" crc="516932530" ref="phone>index"/>
@@ -98,10 +98,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="355086952" ref="phone>index"/>
-      <file name="nomq_index.css" crc="454080607" ref="phone>index"/>
+      <file name="index.css" crc="4095569456" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3831141509" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="277592475" seo="true" mt="1561321516509" redirect="true"/>
+    <file name="index.html" crc="247150247" seo="true" mt="1561322160488" redirect="true"/>
   </folder>
-  <file name="index.html" crc="461244813" seo="true" mt="1561321545549" redirect="true"/>
+  <file name="index.html" crc="3880283929" seo="true" mt="1561322129625" redirect="true"/>
 </manifest>
