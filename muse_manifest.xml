@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561328461035">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561329637900">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="219503759" ref="index"/>
+    <file name="index.css" crc="12099639" ref="index"/>
     <file name="iefonts_index.css" crc="496814878" ref="index"/>
   </folder>
   <folder name="assets">
@@ -50,11 +50,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="письмо 5.jpg" crc="369555512" seo="true" ref="phone>index">
+    <file name="письмо 594x59.jpg" crc="350593716" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="письмо 5_2x.jpg" crc="306525817" seo="true" ref="phone>index">
+    <file name="письмо 594x59_2x.jpg" crc="155172459" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -101,8 +101,12 @@
     <file name="u30828-r_2x2.png" crc="3769545279" ref="phone>index"/>
     <file name="u31916-4.png" crc="4003094706" ref="index"/>
     <file name="u31916-4_2x.png" crc="3909866022" ref="index"/>
-    <file name="конверт 3-u37840.png" crc="391243768" ref="index"/>
-    <file name="конверт 3-u37840_2x.png" crc="4021649903" ref="index"/>
+    <file name="письмо 5.jpg" crc="395745556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 5_2x.jpg" crc="4161480764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u31956-6.png" crc="4045468645" ref="index"/>
     <file name="u31956-6_2x.png" crc="4271900719" ref="index"/>
     <file name="самолёт 6.png" crc="428545618" seo="true" ref="index">
@@ -116,10 +120,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="194783128" ref="phone>index"/>
-      <file name="nomq_index.css" crc="393998025" ref="phone>index"/>
+      <file name="index.css" crc="3816163573" ref="phone>index"/>
+      <file name="nomq_index.css" crc="463638551" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3943477650" seo="true" mt="1561328334419" redirect="true"/>
+    <file name="index.html" crc="3970892754" seo="true" mt="1561329288387" redirect="true"/>
   </folder>
-  <file name="index.html" crc="483260538" seo="true" mt="1561328406537" redirect="true"/>
+  <file name="index.html" crc="3904929019" seo="true" mt="1561329557433" redirect="true"/>
 </manifest>
