@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561366623517">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561317780536">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3821946816" ref="index"/>
+    <file name="index.css" crc="294292497" ref="index"/>
     <file name="iefonts_index.css" crc="368036488" ref="index"/>
   </folder>
   <folder name="assets">
@@ -26,8 +26,10 @@
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
-    <file name="путешеств 1.jpg" crc="308614161" seo="true" ref="phone>index:index">
+    <file name="путешеств 2.jpg" crc="3856688049" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="путешеств 2_2x.jpg" crc="489626214" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u30867-6.png" crc="387530784" ref="phone>index"/>
@@ -89,6 +91,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="путешеств 2305x280.jpg" crc="4292072633" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="путешеств 2305x280_2x.jpg" crc="4267142544" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u30887-62.png" crc="531806204" ref="phone>index"/>
     <file name="u30887-6_2x2.png" crc="284969910" ref="phone>index"/>
     <file name="u30867-62.png" crc="200468599" ref="phone>index"/>
@@ -112,6 +120,9 @@
     <file name="самолёт 6.png" crc="428545618" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="путешеств 1.jpg" crc="308614161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u31977-6.png" crc="327959954" ref="index"/>
     <file name="u31977-6_2x.png" crc="4070069044" ref="index"/>
     <file name="bg2.jpg" crc="3950595014" ref="index">
@@ -120,10 +131,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="185281535" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4060877908" ref="phone>index"/>
+      <file name="index.css" crc="290088929" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3960669001" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4195670035" seo="true" mt="1561366597521" redirect="true"/>
+    <file name="index.html" crc="253029372" seo="true" mt="1561317732560" redirect="true"/>
   </folder>
-  <file name="index.html" crc="105104482" seo="true" mt="1561363341174" redirect="true"/>
+  <file name="index.html" crc="3833157215" seo="true" redirect="true"/>
 </manifest>
