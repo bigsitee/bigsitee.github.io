@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561320860398">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561321598468">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4086906805" ref="index"/>
+    <file name="index.css" crc="8647491" ref="index"/>
     <file name="iefonts_index.css" crc="496814878" ref="index"/>
   </folder>
   <folder name="assets">
@@ -65,14 +65,8 @@
     <file name="u30828_2x.png" crc="436321833" ref="phone>index"/>
     <file name="u30828-r.png" crc="303082729" ref="phone>index"/>
     <file name="u30828-r_2x.png" crc="4125802293" ref="phone>index"/>
-    <file name="конверт 3.png" crc="3770634266" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="конверт 3_2x.png" crc="3846248458" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="конверт 3-u37702.png" crc="121662458" ref="phone>index"/>
+    <file name="конверт 3-u37702_2x.png" crc="457246046" ref="phone>index"/>
     <file name="bg2-u30819-fr.jpg" crc="388685311" ref="phone>index"/>
     <file name="u30887-62.png" crc="4134613576" ref="phone>index"/>
     <file name="u30887-6_2x2.png" crc="516932530" ref="phone>index"/>
@@ -84,9 +78,13 @@
     <file name="u30828_2x2.png" crc="478981835" ref="phone>index"/>
     <file name="u30828-r2.png" crc="145834697" ref="phone>index"/>
     <file name="u30828-r_2x2.png" crc="508040688" ref="phone>index"/>
+    <file name="конверт 3-u377022.png" crc="121662458" ref="phone>index"/>
+    <file name="конверт 3-u37702_2x2.png" crc="3806168058" ref="phone>index"/>
     <file name="bg2-u30819-fr2.jpg" crc="97302143" ref="phone>index"/>
     <file name="u31916-4.png" crc="4003094706" ref="index"/>
     <file name="u31916-4_2x.png" crc="3909866022" ref="index"/>
+    <file name="конверт 3-u37840.png" crc="391243768" ref="index"/>
+    <file name="конверт 3-u37840_2x.png" crc="4021649903" ref="index"/>
     <file name="u31956-6.png" crc="4045468645" ref="index"/>
     <file name="u31956-6_2x.png" crc="4271900719" ref="index"/>
     <file name="самолёт 6.png" crc="428545618" seo="true" ref="index">
@@ -100,10 +98,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="232196032" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824669564" ref="phone>index"/>
+      <file name="index.css" crc="355086952" ref="phone>index"/>
+      <file name="nomq_index.css" crc="454080607" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3763529519" seo="true" mt="1561320835870" redirect="true"/>
+    <file name="index.html" crc="277592475" seo="true" mt="1561321516509" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4133403666" seo="true" mt="1561319228803" redirect="true"/>
+  <file name="index.html" crc="461244813" seo="true" mt="1561321545549" redirect="true"/>
 </manifest>
