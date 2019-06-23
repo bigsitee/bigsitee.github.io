@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561323726717">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561325764560">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4031078075" ref="index"/>
+    <file name="index.css" crc="3855485738" ref="index"/>
     <file name="iefonts_index.css" crc="496814878" ref="index"/>
   </folder>
   <folder name="assets">
@@ -58,16 +58,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="конверт 3-u37702.png" crc="4142183681" ref="phone>index"/>
+    <file name="конверт 3-u37702_2x.png" crc="132790121" ref="phone>index"/>
     <file name="u30826-4.png" crc="3767813397" ref="phone>index"/>
     <file name="u30826-4_2x.png" crc="3825993027" ref="phone>index"/>
-    <file name="bg2-u30819-fr.jpg" crc="388685311" ref="phone>index"/>
+    <file name="bg2-u30819-fr.jpg" crc="3921862162" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="u30828.png" crc="3992989519" ref="phone>index"/>
     <file name="u30828_2x.png" crc="436321833" ref="phone>index"/>
     <file name="u30828-r.png" crc="303082729" ref="phone>index"/>
     <file name="u30828-r_2x.png" crc="4125802293" ref="phone>index"/>
-    <file name="конверт 3-u37702.png" crc="4142183681" ref="phone>index"/>
-    <file name="конверт 3-u37702_2x.png" crc="132790121" ref="phone>index"/>
     <file name="u30887-62.png" crc="4134613576" ref="phone>index"/>
     <file name="u30887-6_2x2.png" crc="516932530" ref="phone>index"/>
     <file name="u30867-62.png" crc="200468599" ref="phone>index"/>
@@ -98,10 +98,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="326675987" ref="phone>index"/>
-      <file name="nomq_index.css" crc="370953445" ref="phone>index"/>
+      <file name="index.css" crc="81949096" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4272248282" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3932614277" seo="true" mt="1561323661405" redirect="true"/>
+    <file name="index.html" crc="265766818" seo="true" mt="1561325735603" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3880283929" seo="true" mt="1561322129625" redirect="true"/>
+  <file name="index.html" crc="257548000" seo="true" mt="1561322129625" redirect="true"/>
 </manifest>
