@@ -7,13 +7,13 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eugenie.ml/phone/index.html"/>
     <image:image>
-      <image:loc>http://eugenie.ml/images/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%205.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://eugenie.ml/images/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%205_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://eugenie.ml/images/%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://eugenie.ml/images/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://eugenie.ml/images/%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%205_2x.png</image:loc>
     </image:image>
   </url>
   <url>
