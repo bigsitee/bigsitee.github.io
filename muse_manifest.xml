@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561363420749">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1561364254320">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3821946816" ref="index"/>
@@ -32,8 +32,8 @@
     </file>
     <file name="u30867-6.png" crc="387530784" ref="phone>index"/>
     <file name="u30867-6_2x.png" crc="14484439" ref="phone>index"/>
-    <file name="u30887-6.png" crc="4100300826" ref="phone>index"/>
-    <file name="u30887-6_2x.png" crc="4050581595" ref="phone>index"/>
+    <file name="u30887-6.png" crc="435163383" ref="phone>index"/>
+    <file name="u30887-6_2x.png" crc="3952044120" ref="phone>index"/>
     <file name="city-lights-night-rooftop-medium.jpg" crc="536394151" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -89,8 +89,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u30887-62.png" crc="4134613576" ref="phone>index"/>
-    <file name="u30887-6_2x2.png" crc="516932530" ref="phone>index"/>
+    <file name="u30887-62.png" crc="531806204" ref="phone>index"/>
+    <file name="u30887-6_2x2.png" crc="284969910" ref="phone>index"/>
     <file name="u30867-62.png" crc="200468599" ref="phone>index"/>
     <file name="u30867-6_2x2.png" crc="508778240" ref="phone>index"/>
     <file name="u30826-42.png" crc="207484431" ref="phone>index"/>
@@ -120,10 +120,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="136021111" ref="phone>index"/>
-      <file name="nomq_index.css" crc="284159109" ref="phone>index"/>
+      <file name="index.css" crc="58310434" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3784692903" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="405731626" seo="true" mt="1561363316627" redirect="true"/>
+    <file name="index.html" crc="229111169" seo="true" mt="1561364238471" redirect="true"/>
   </folder>
   <file name="index.html" crc="105104482" seo="true" mt="1561363341174" redirect="true"/>
 </manifest>
