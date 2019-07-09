@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1562708243066">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1562701759756">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="114725429" ref="index"/>
+    <file name="index.css" crc="4059486751" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -14,10 +14,6 @@
     <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
-    <file name="form_process.php" crc="37464564" ref="phone>index"/>
-    <file name="form-u30827.php" crc="498369023" ref="phone>index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="phone>index"/>
@@ -51,11 +47,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="письмо 594x59.png" crc="263371017" seo="true" ref="phone>index">
+    <file name="лето 6.jpg" crc="80662254" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="письмо 594x59_2x.png" crc="86198141" seo="true" ref="phone>index">
+    <file name="лето 6_2x.jpg" crc="310042506" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -69,24 +65,19 @@
     </file>
     <file name="u30826-4.png" crc="188199872" ref="phone>index"/>
     <file name="u30826-4_2x.png" crc="419427104" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
-    <file name="u30828.png" crc="454705184" ref="phone>index"/>
-    <file name="u30828_2x.png" crc="13626436" ref="phone>index"/>
-    <file name="u30828-r.png" crc="265763202" ref="phone>index"/>
-    <file name="u30828-r_2x.png" crc="425697808" ref="phone>index"/>
+    <file name="письмо 594x59.png" crc="263371017" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="письмо 594x59_2x.png" crc="86198141" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="самолёт 5.png" crc="93996191" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="самолёт 5_2x.png" crc="3826426721" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="лето 6.jpg" crc="80662254" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="лето 6_2x.jpg" crc="310042506" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -102,10 +93,7 @@
     <file name="u30867-6_2x2.png" crc="492284077" ref="phone>index"/>
     <file name="u30826-42.png" crc="207484431" ref="phone>index"/>
     <file name="u30826-4_2x2.png" crc="4209115574" ref="phone>index"/>
-    <file name="u308282.png" crc="392604274" ref="phone>index"/>
-    <file name="u30828_2x2.png" crc="348781466" ref="phone>index"/>
-    <file name="u30828-r2.png" crc="443025785" ref="phone>index"/>
-    <file name="u30828-r_2x2.png" crc="3795230992" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="u31916-4.png" crc="4068734719" ref="index"/>
     <file name="u31916-4_2x.png" crc="50050417" ref="index"/>
     <file name="u31956-6.png" crc="4045468645" ref="index"/>
@@ -148,10 +136,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3804088352" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4256301329" ref="phone>index"/>
+      <file name="index.css" crc="3769873965" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4029538929" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="46629493" seo="true" redirect="true"/>
+    <file name="index.html" crc="3963265623" seo="true" mt="1562701627004" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4194101924" seo="true" mt="1562708182070" redirect="true"/>
+  <file name="index.html" crc="235358088" seo="true" mt="1562700769012" redirect="true"/>
 </manifest>
