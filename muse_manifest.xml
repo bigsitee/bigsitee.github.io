@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1566335134774">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498677227168">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="186460221" ref="index"/>
+    <file name="index.css" crc="3940984658" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -29,8 +29,8 @@
     </file>
     <file name="u30887-6.png" crc="58981619" ref="phone>index"/>
     <file name="u30887-6_2x.png" crc="287401706" ref="phone>index"/>
-    <file name="u30867-6.png" crc="4196340362" ref="phone>index"/>
-    <file name="u30867-6_2x.png" crc="3795732264" ref="phone>index"/>
+    <file name="u30867-6.png" crc="498078133" ref="phone>index"/>
+    <file name="u30867-6_2x.png" crc="172471360" ref="phone>index"/>
     <file name="city-lights-night-rooftop-medium.jpg" crc="536394151" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -89,8 +89,8 @@
     </file>
     <file name="u30887-62.png" crc="356742753" ref="phone>index"/>
     <file name="u30887-6_2x2.png" crc="335749544" ref="phone>index"/>
-    <file name="u30867-62.png" crc="3936254476" ref="phone>index"/>
-    <file name="u30867-6_2x2.png" crc="492284077" ref="phone>index"/>
+    <file name="u30867-62.png" crc="4108648053" ref="phone>index"/>
+    <file name="u30867-6_2x2.png" crc="373334041" ref="phone>index"/>
     <file name="u30826-42.png" crc="207484431" ref="phone>index"/>
     <file name="u30826-4_2x2.png" crc="4209115574" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index"/>
@@ -136,10 +136,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3952965324" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4200452037" ref="phone>index"/>
+      <file name="index.css" crc="3872114603" ref="phone>index"/>
+      <file name="nomq_index.css" crc="363114622" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="483591586" seo="true" redirect="true"/>
+    <file name="index.html" crc="526278760" seo="true" mt="1498677201804" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3853140652" seo="true" redirect="true"/>
+  <file name="index.html" crc="3996659400" seo="true" redirect="true"/>
 </manifest>
