@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498770328147">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498770795007">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="147952073" ref="index"/>
@@ -47,6 +47,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="лето 6.jpg" crc="80662254" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -93,7 +94,6 @@
     <file name="u30867-8_2x2.png" crc="4064830732" ref="phone>index"/>
     <file name="u30826-42.png" crc="207484431" ref="phone>index"/>
     <file name="u30826-4_2x2.png" crc="4209115574" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="u31916-4.png" crc="4068734719" ref="index"/>
     <file name="u31916-4_2x.png" crc="50050417" ref="index"/>
     <file name="u31956-6.png" crc="525928143" ref="index"/>
@@ -136,10 +136,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4164118269" ref="phone>index"/>
-      <file name="nomq_index.css" crc="43539423" ref="phone>index"/>
+      <file name="index.css" crc="519996076" ref="phone>index"/>
+      <file name="nomq_index.css" crc="517535885" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="112589131" seo="true" mt="1498770302696" redirect="true"/>
+    <file name="index.html" crc="513658600" seo="true" mt="1498770774148" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3910694334" seo="true" mt="1498770302695" redirect="true"/>
+  <file name="index.html" crc="3869155547" seo="true" mt="1498770302695" redirect="true"/>
 </manifest>
