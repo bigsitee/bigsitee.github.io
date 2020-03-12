@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498768700451">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1498769611421">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3940984658" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="147952073" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -96,8 +96,8 @@
     <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="u31916-4.png" crc="4068734719" ref="index"/>
     <file name="u31916-4_2x.png" crc="50050417" ref="index"/>
-    <file name="u31956-6.png" crc="4045468645" ref="index"/>
-    <file name="u31956-6_2x.png" crc="4271900719" ref="index"/>
+    <file name="u31956-6.png" crc="525928143" ref="index"/>
+    <file name="u31956-6_2x.png" crc="4128503908" ref="index"/>
     <file name="самолёт 6.png" crc="428545618" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -139,7 +139,7 @@
       <file name="index.css" crc="4005596356" ref="phone>index"/>
       <file name="nomq_index.css" crc="3982996974" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="13491670" seo="true" mt="1498768650839" redirect="true"/>
+    <file name="index.html" crc="441714061" seo="true" mt="1498769499256" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3909534535" seo="true" redirect="true"/>
+  <file name="index.html" crc="143629469" seo="true" mt="1498769154967" redirect="true"/>
 </manifest>
